@@ -9,6 +9,3 @@ area.
 - c. top 10 countries with the biggest population density (people / square km)
 3. Add the ability to consume the data about countries directly from the restcountries.eu and
 process it (keep the code that processes data from the text file as well!)
-4. Convert your application to Spring Boot application and expose results via REST API
-5. Add unit tests
-## 
